@@ -1,6 +1,6 @@
 # [トリビュートページ](https://minamikohei.github.io/tribute-page/)
 
-[freeCodeCamp](https://www.freecodecamp.org/japanese/learn/responsive-web-design/)(レガシー) レスポンシブウェブデザインのレスポンシブウェブデザインプロジェクト
+[freeCodeCamp](https://www.freecodecamp.org/learn/2022/responsive-web-design/) レスポンシブウェブデザインのレスポンシブウェブデザインプロジェクト
 
 ***
 
